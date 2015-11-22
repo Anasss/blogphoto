@@ -1,5 +1,5 @@
 <?php
-
+ini_set("memory_limit","500M");
 /**
  * @file
  * Drupal site-specific configuration file.
